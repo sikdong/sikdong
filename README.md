@@ -1,5 +1,3 @@
 ### Hi there 👋
-## I'm Backend Developer
-
-🔭 I’m currently working on 아티스시스템 
+🔭 I'm Backend Developer and currently working on 아티스시스템 
 
